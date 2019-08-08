@@ -1,0 +1,15 @@
+{
+  "name": "native-ws-overview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "justWsServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.1",
+    "ws": "^7.1.1"
+  }
+}
