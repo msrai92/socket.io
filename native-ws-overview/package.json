@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "nodemon": "^1.19.1",
-    "ws": "^7.1.1"
+    "ws": "^7.4.6"
   }
 }
